@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-EmpApplication<emp>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "com.badu.emp.EmpApplication",
+			"projectName": "emp",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}
